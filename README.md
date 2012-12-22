@@ -2,7 +2,7 @@ ServerJS
 ========
 
 The ServerJS project is an extension of Node.js (http://nodejs.org), created to develop serverside javascript applications in an HTML-sheet. To define a serverside script-tag, you have the following choises:
-  <script serverside>
+	<script serverside>
 	<script server>
 	<script serverjs>
 	<script language=serverjs>
@@ -11,6 +11,7 @@ The ServerJS project is an extension of Node.js (http://nodejs.org), created to 
 	<serverside>
 	
 Usage:
+
 	$ nodejs serverjs.js [options] [file]
 Options are:
 	--help, -h: Print help and then exit.
