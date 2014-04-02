@@ -18,4 +18,3 @@ Options are:<br>
 The last argument passed will always be taken as the file to parse.<br>
 <br>
 Licensed under the MIT license, see LICENSE<br>
-Website: andreas.lha66.dk and serverjs.sourceforge.net<br>
